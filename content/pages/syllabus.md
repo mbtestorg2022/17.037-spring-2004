@@ -14,11 +14,50 @@ Lecture: 1 session / week, 2 hours / session
 Course Requirements
 -------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Participation | 20% |
-| Mid-term Paper  {{< br >}}Due by Session #8. | 30% |
-| Take-home Final (or Final Paper)  {{< br >}}Due by the last day of term. | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term Paper  
+Due by Session #8.
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Take-home Final (or Final Paper)  
+Due by the last day of term.
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
