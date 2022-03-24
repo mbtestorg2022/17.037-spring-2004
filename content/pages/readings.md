@@ -214,7 +214,7 @@ Emerson, Ralph Waldo. Chapter 1 in _Nature_. 1836. ([Download](http://www.guten
   
 ———. "The American Scholar." In _Portable Emerson_. 1837. [(View text](https://www.amazon.com/Portable-Emerson-Viking-Library/dp/0140150943) on The Works of Ralph Waldo Emerson.)  
   
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Self-Reliance." (PDF)](http://www.math.dartmouth.edu/~doyle/docs/self/self.pdf) In _Portable Emerson._ 1841.  
+———. ["Self-Reliance." (PDF)](http://www.math.dartmouth.edu/~doyle/docs/self/self.pdf) In _Portable Emerson._ 1841.  
   
 ———. "Politics." In _Portable Emerson._ 1844. ([Download](http://www.gutenberg.net/etext/2945) from Project Gutenberg.)  
   
